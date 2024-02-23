@@ -1,0 +1,3 @@
+{"name":"Test Coffe edited","place":"","location":null,"type":"Ristreto","rating":4,"notes":"","tastingRating":{"aroma":0,"body":0,"flavor":0,"intensity":0,"sweetness":0,"aftertaste":0},"_id":"JgK4WwcP41PQNua7"}
+{"name":"Black Americano edited","place":"Linkedln Learning","location":null,"type":"Americano","rating":5,"notes":"Great Coffee","tastingRating":{"aroma":1,"body":0,"flavor":3,"intensity":4,"sweetness":4,"aftertaste":3},"_id":"LOI7nfNr5RLgyhoi"}
+{"name":"Vanilla Latte","place":"Starbucks","location":null,"type":"Cappuccino","rating":2,"notes":"ts ok","tastingRating":{"aroma":0,"body":0,"flavor":0,"intensity":0,"sweetness":0,"aftertaste":0},"_id":"qhYczEUUTc45paqa"}

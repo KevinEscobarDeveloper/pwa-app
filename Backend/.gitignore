@@ -1,0 +1,25 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Archivo generado por npm, contiene referencias a paquetes npm instalados
+/package-lock.json
+
+# Ambiente de desarrollo local
+/.env
+
+# Archivos de registro y error
+*.log
+npm-debug.log*
+
+# Carpeta generada por compiladores / transpiladores
+/dist
+
+# Carpeta generada por IDEs
+/.vscode
+
+# Carpetas específicas para archivos de respaldo
+/.idea
+/.vs
+
+# Cualquier archivo de configuración local que desees ignorar
+.env.local

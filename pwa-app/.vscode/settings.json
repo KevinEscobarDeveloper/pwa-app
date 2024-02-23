@@ -1,0 +1,13 @@
+{
+  "ipynb.pasteImagesAsAttachments.enabled": true,
+  "activitusbar.alignment": "Left",
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.iconTheme": "vikings-icon-theme",
+  "workbench.editor.autoLockGroups": {
+    "imagePreview.previewEditor": true
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.defaultColorDecorators": false,
+  "workbench.activityBar.location": "side"
+}
